@@ -3,6 +3,8 @@ outline: 3px clear;
 Padding: 0px;
 margin: 10px;
 border: 0px;
+box-sizing: content-box;
+
 }
 
 body {
