@@ -1,3 +1,10 @@
+* {
+outline: 3px clear;
+Padding: 0px;
+margin: 10px;
+border: 0px;
+}
+
 body {
 
 background-color: #FAF9F6;
